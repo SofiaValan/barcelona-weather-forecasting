@@ -23,6 +23,9 @@ This project pulls meteorological data from the Meteocat (Catalonian Weather Ser
 * Free registration at https://apidocs.meteocat.gencat.cat/
 * Personal API key obtained after registration. This needs manual approval.
 
+## Installation
+TBC
+
 ## Milestones
 
 * Ingest historical daily weather data from multiple stations across Barcelona via MeteoCat OpenData API
@@ -31,6 +34,16 @@ This project pulls meteorological data from the Meteocat (Catalonian Weather Ser
 * Support multi-station spatial analysis and feature engineering
 * Deploy trained models using Kubernetes for scalable drought forecasting
 * Provide an interactive data app to evaluate drought periods
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Sofia Valcárcel**
+- GitHub: [@sofiavalan](https://github.com/sofiavalan)
+- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sofia-valcarcel/))
 
 ## Bibliography
 * Barcelona Drought Impact: https://www.barcelonatravelhacks.com/hacks/info/barcelona-2024-drought
