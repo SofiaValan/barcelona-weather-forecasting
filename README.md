@@ -35,6 +35,10 @@ TBC
 * Deploy trained models using Kubernetes for scalable drought forecasting
 * Provide an interactive data app to evaluate drought periods
 
+## Bibliography
+* Barcelona Drought Impact: https://www.barcelonatravelhacks.com/hacks/info/barcelona-2024-drought
+* Catalonia lifts the exceptional measures due to drought in the Barcelona region: https://www.lavanguardia.com/mediterranean/20240618/9741616/catalonia-government-lifts-exceptional-measures-drought-barcelona-water-sau-ter-llobregat.html
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -43,8 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sofia Valcárcel**
 - GitHub: [@sofiavalan](https://github.com/sofiavalan)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/sofia-valcarcel/)
-
-## Bibliography
-* Barcelona Drought Impact: https://www.barcelonatravelhacks.com/hacks/info/barcelona-2024-drought
-* Catalonia lifts the exceptional measures due to drought in the Barcelona region: https://www.lavanguardia.com/mediterranean/20240618/9741616/catalonia-government-lifts-exceptional-measures-drought-barcelona-water-sau-ter-llobregat.html
+- LinkedIn: [Sofía Valcárcel](https://www.linkedin.com/in/sofia-valcarcel/)
