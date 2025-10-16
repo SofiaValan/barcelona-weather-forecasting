@@ -43,7 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sofia Valcárcel**
 - GitHub: [@sofiavalan](https://github.com/sofiavalan)
-- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sofia-valcarcel/))
+- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sofia-valcarcel/)
 
 ## Bibliography
 * Barcelona Drought Impact: https://www.barcelonatravelhacks.com/hacks/info/barcelona-2024-drought
